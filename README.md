@@ -27,6 +27,3 @@ Este projeto é gratuito. Baixe, use ou modifique como quiser.
 
 ---
 
-**Nota:** Personalize as seções conforme necessário e adicione mais informações relevantes sobre o seu projeto. Isso é apenas um ponto de partida.
-
-Agora, ao clicar no ícone do LinkedIn, os usuários serão direcionados para o seu perfil. Se precisar de mais alguma coisa, estou aqui para ajudar!
