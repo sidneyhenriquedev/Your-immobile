@@ -4,7 +4,7 @@
 O Your-immobile é um projeto desenvolvido como parte dos meus estudos, focado exclusivamente em colocar em prática conceitos de HTML, CSS e Bootstrap.
 
 ## Funcionalidades Principais
-- [Liste aqui as principais funcionalidades do seu projeto]
+- Exibir vários imoveis e informações realcionada ao mesmo.
 
 ## Tecnologias Utilizadas
 - Linguagem de Marcação: ![HTML](https://img.shields.io/badge/HTML-5-orange)
