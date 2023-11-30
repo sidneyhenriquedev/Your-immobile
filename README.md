@@ -10,7 +10,7 @@ O Your-immobile é um projeto desenvolvido como parte dos meus estudos, focado e
 - Linguagem de Marcação: ![HTML](https://img.shields.io/badge/HTML-5-orange)
 - Folhas de Estilo: ![CSS](https://img.shields.io/badge/CSS-3-blue)
 - Framework Frontend: ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
-- [Outras tecnologias utilizadas, frameworks, etc.]
+
 
 ## Como Usar
 1. **Baixe o repositório:** Clone o repositório usando `git clone https://github.com/seu-usuario/Your-immobile.git` ou baixe o ZIP.
