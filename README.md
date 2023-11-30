@@ -9,6 +9,7 @@ O Your-immobile é um projeto desenvolvido como parte dos meus estudos, focado e
 ## Tecnologias Utilizadas
 - Linguagem de Marcação: ![HTML](https://img.shields.io/badge/HTML-5-orange)
 - Folhas de Estilo: ![CSS](https://img.shields.io/badge/CSS-3-blue)
+- Framework Frontend: ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple)
 - [Outras tecnologias utilizadas, frameworks, etc.]
 
 ## Como Usar
@@ -30,4 +31,4 @@ Este projeto está licenciado sob a [insira a licença aqui. Ex: MIT License] - 
 
 **Nota:** Personalize as seções conforme necessário e adicione mais informações relevantes sobre o seu projeto. Isso é apenas um ponto de partida.
 
-Espero que isso atenda às suas necessidades! Se tiver mais alguma coisa em que eu possa ajudar, é só avisar.
+Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
